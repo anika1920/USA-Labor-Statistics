@@ -2,11 +2,11 @@
 
 I conducted a comprehensive analysis of wage and employment data for the United States, sourced from Kaggle, to derive valuable insights
 
-##Tools Used :
+## Tools Used :
 
 Excel
 
-##Key Insights:
+## Key Insights:
 
 1.Information industry boasts the highest average wage.Finance sector follows closely as the second-highest.Leisure and hospitality records the lowest average wage.
 
